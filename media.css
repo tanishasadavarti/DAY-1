@@ -1,0 +1,35 @@
+@media(max-width : 480px)
+{
+    header
+    {
+        flex-direction: column;
+    }
+    .main{
+        
+    }
+    .navbar
+    {
+        flex-direction: column;
+        
+    }
+    .col
+    {
+        flex-direction: column;
+    }
+    .pic-img
+    {
+        flex-direction: column;
+       
+    }
+    .pic-text
+    {
+        text-align: center;
+    }
+    .images-row1{
+        flex-direction: column;
+    }
+    .con-btn
+    {
+        
+    }
+}
